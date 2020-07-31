@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="footer">
       <h3>
-        See it at NASA.gov{" "}
+        See today's photo at NASA.gov{" "}
         <a
           target="_blank"
           rel="noopener noreferrer"
